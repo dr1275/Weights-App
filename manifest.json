@@ -1,0 +1,10 @@
+{
+  "name": "Weights",
+  "short_name": "Weights",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "description": "Private personal weights, routines and stretching tracker",
+  "icons": []
+}
